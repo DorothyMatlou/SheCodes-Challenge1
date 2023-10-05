@@ -1,0 +1,33 @@
+* {
+  margin: 10px auto;
+  padding: 10px auto;
+}
+
+body {
+  background: whitesmoke;
+  align-items: center;
+}
+
+.card {
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/099/077/original/coding.png?1696507459);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 90vh;
+  color: red;
+  border-radius: 20px;
+}
+
+.heading {
+  text-align: center;
+  padding-top: 8px;
+}
+.heading h1 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.heading p {
+  margin-top: 0;
+  padding-top: 0;
+}
